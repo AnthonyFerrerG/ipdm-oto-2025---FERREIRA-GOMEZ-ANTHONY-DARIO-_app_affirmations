@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">¡Hoy será un gran día!</string>
+    <string name="affirmation2">Eres capaz de lograrlo</string>
+    <string name="affirmation3">Cada día es una nueva oportunidad</string>
+    <string name="affirmation4">Confía en ti mismo</string>
+    <string name="affirmation5">La actitud lo es todo</string>
+    <string name="affirmation6">Sigue adelante sin miedo</string>
+    <string name="affirmation7">Eres fuerte y valiente</string>
+    <string name="affirmation8">Haz que cada momento cuente</string>
+    <string name="affirmation9">El éxito está en tus manos</string>
+    <string name="affirmation10">Nunca dejes de aprender</string>
+</resources>
