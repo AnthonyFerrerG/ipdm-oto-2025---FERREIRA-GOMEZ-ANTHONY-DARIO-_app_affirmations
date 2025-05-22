@@ -16,6 +16,4 @@ Una app Android creada con Jetpack Compose que muestra una lista desplazable de 
 - `ui/`: Componentes Compose para la UI
 - `res/`: Recursos gráficos, strings e íconos adaptables
 
-## Cómo ejecutar
 
-1. Clona el repositorio:
