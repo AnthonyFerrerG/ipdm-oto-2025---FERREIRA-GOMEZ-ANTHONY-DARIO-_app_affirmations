@@ -1,0 +1,21 @@
+# Affirmations App
+
+Una app Android creada con Jetpack Compose que muestra una lista desplazable de afirmaciones positivas, cada una acompañada de una imagen, y que incluye un ícono adaptable personalizado.
+
+## Características
+
+- Lista desplazable con `LazyColumn`
+- Tarjetas con imagen y texto (Material Design)
+- Ícono adaptable con capas foreground y background
+- Compatible con múltiples densidades de pantalla y versiones de Android
+
+## Estructura del proyecto
+
+- `model/`: Clase de datos `Affirmation`
+- `data/`: Fuente de datos con lista de afirmaciones
+- `ui/`: Componentes Compose para la UI
+- `res/`: Recursos gráficos, strings e íconos adaptables
+
+## Cómo ejecutar
+
+1. Clona el repositorio:
